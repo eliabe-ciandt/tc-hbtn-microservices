@@ -1,0 +1,7 @@
+Microsserviços é uma moderna arquitetura de software que possui a separação de uma aplicação entre funcionalidades, ou serviços.
+Como exemplo de microsserviços, podemos citar os serviços de busca e recomendação de uma plataforma qualquer de streaming.
+A arquitetura monolítica possui um único e grande bloco que aglutina todas as funcionalidades do sistema, compartilhando um único banco de dados comum a todos.
+Caso ocorra uma falha numa aplicação assim, todo o sistema cai - ao contrário do microsserviço.
+
+Entre as vantagens do microsserviço, podemos citar: baixo acoplamento e dependência dos serviços; maior agilidade no desenvolvimento - já que os times podem se separar em serviços menores - e maior escalabilidade da aplicação
+A comunicação entre os serviços se dá por meio de mensagerias, API's e JSON
