@@ -1,0 +1,13 @@
+Arquitetura serverless é uma arquitetura que permite a abstração da implementação e manutenção da camada de infraestrutura das aplicações. Os desenvolvedores podem então se concentrar apenas na escrita de código.
+O servidor, ou infraestrutura, ainda existe, mas é fornecido por uma empresa específica que cuida de sua implementação e segurança.
+
+No Function as a Service (FaaS) temos algo parecido com a arquitetura serverless, onde os códigos são disponibilizados como funções que rodam em resposta a eventos determinados pelo desenvolvedor - orientado a eventos.
+
+Os benefícios da arquitetura serverless são: alta escalabilidade das aplicações; custo baixos - são sempre de acordo com o número de requisições; menor preocupação e tempo gasto com a implementação da infraestrutura.
+
+Cloud Computing é o uso de computadores/servidores por meio da web. Esses computadores, e os recursos de hardware, são alocados de acordo com a necessidade do momento do cliente, que só paga pelo o que usar.
+Como benefício, podemos citar que o cliente não precisa sempre se preocupar em ter uma máquina muito robusta, especialmente se for apenas para tarefas pontuais. Ele poderá com maior capacidade de hardware apenas quando precisa, economizando dinheiro.
+
+A arquitetura monolítica é um padrão em que a aplicação se concentra em um único bloco de código, com um único ponto de falha - uma falha qualquer pode derrubar todo o sistema.
+Na arquitetura de microsserviços, a aplicação é dividida em serviços menores e focados, que possuem baixa dependência entre si. Com isso, uma falha num serviço não irá impactar toda a aplicação.
+Serverless é a construção de sistemas sem se preocupar com sua infraestrutura, onde o código estará alocado onde ele pode ser rodado, mas sem problemas de manutenção de infraestrutura.
